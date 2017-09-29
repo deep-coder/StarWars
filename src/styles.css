@@ -1,0 +1,11 @@
+.planet__container{
+ display: flex;
+ flex-direction: column;
+    padding: 20px;
+}
+
+.planet__container input[type=text]{
+    width: 100%;
+    height: 30px;
+
+}
